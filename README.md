@@ -28,7 +28,9 @@ Essa aplicação tem como objetivo criar registro de posts e seus respectivos co
 ## Back end
 -Java 8
 
+
 -Spring Boot
+
 
 -Maven
 
