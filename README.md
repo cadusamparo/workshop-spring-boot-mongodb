@@ -5,7 +5,7 @@
 # Sobre o projeto
 Aplicação back end feita ao longo das aulas do curso **[Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo)
 
-Essa aplicação tem como objetivo criar registro de posts e seus respectivos comentários.Conta com uma funcionalidade que permite filtrar esses posts e comentários com palavras-chaves ou intervalo de tempo desejados
+Essa aplicação tem como objetivo criar registro de posts e seus respectivos comentários.Conta com uma funcionalidade que permite filtrar esses posts e comentários com palavras-chaves ou intervalo de tempo desejados.
 
 # Objetivos
 -Iniciar um projeto Spring Boot com Java
