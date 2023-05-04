@@ -1,5 +1,5 @@
 # Workshop-API Restful com Spring Boot e banco MongoDB(web services + NoSQL)
-[[![NPM](https://img.shields.io/npm/l/react)]https://github.com/cadusamparo/workshop-spring-boot-mongodb/blob/main/LICENCE]
+[[![NPM](https://img.shields.io/npm/l/react)]
 
 # Sobre o projeto
 Aplicação back end feita ao longo das aulas do curso **[Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo)
