@@ -1,5 +1,5 @@
 # Workshop-API Restful com Spring Boot e banco MongoDB(web services + NoSQL)
-[![NPM](https://img.shields.io/npm/l/react)]https://github.com/cadusamparo/workshop-spring-boot-mongodb/blob/main/LICENCE
+[[![NPM](https://img.shields.io/npm/l/react)]https://github.com/cadusamparo/workshop-spring-boot-mongodb/blob/main/LICENCE](https://github.com/cadusamparo/workshop-spring-boot-mongodb/blob/main/LICENCE)
 
 # Sobre o projeto
 Aplicação back end feita ao longo das aulas do curso **[Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo)
@@ -8,11 +8,17 @@ Essa aplicação tem como objetivo criar registro de posts e seus respectivos co
 
 # Objetivos
 -Iniciar um projeto Spring Boot com Java
+
 -Pensar em resoluções de design para um banco de dados orientado a documentos
+
 -Organizar o projeto em camadas lógicas: resource, service e repository
+
 -Desenvolver uma associação entre objetos referência e aninhados e preencher banco de dados
+
 -Desenvolver operações de CRUD
+
 -Tratar algumas exceções
+
 -Consultar com Spring Data e MongoRepository
 
 # Modelo conceitual
